@@ -1,0 +1,24 @@
+{
+  "name": "dz14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inde.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemBorshchev/Borshchev-Front-End-Pro-24.12.2022.git"
+  },
+  "author": "Artem Borshchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemBorshchev/Borshchev-Front-End-Pro-24.12.2022/issues"
+  },
+  "homepage": "https://github.com/ArtemBorshchev/Borshchev-Front-End-Pro-24.12.2022#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
