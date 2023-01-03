@@ -1,9 +1,4 @@
 /* eslint-disable no-alert */
-/* Написати функцію doMath(x, znak, y), яка отримує 3 аргументи:
-числа x і y, рядок znak. У змінній znak може бути: +, -, *, /, %(відсоток), ^ (ступінь ).
-Вивести результат математичної дії,
-вказаної в змінній znak.
-Обидва числа і знак виходять від користувача. */
 
 const inputNumber1 = prompt('Enter first number:');
 const inputOperator = prompt('Enter operator: +, -, *, /, %(відсоток), ^ (ступінь ):');
