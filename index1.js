@@ -1,5 +1,4 @@
 /* eslint-disable no-console */
-
 const ArrayUsed = [5, 66, 'pool', 7, 99, null, { name: 'Sam' }, [], true, 78];
 
 function findMean(Arr) {
