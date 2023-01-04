@@ -1,9 +1,6 @@
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-console */
 /* eslint-disable no-alert */
-/* Написати функцію заповнення даними користувача двомірного масиву.
-Довжину основного масиву і внутрішніх масивів задає користувач.
-Значення всіх елементів всіх масивів задає користувач. */
 
 function createArray(Arr) {
   const arrLength = prompt('Введіть кількість масивів:');
